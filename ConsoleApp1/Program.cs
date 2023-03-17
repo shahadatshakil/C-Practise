@@ -7,7 +7,7 @@ namespace PracticeProject
     {
         static void Main(string[] args)
         {
-            // anonymous function
+            // anonymous type
             var animals = new Animals();
 
             animals[0] = "Cat using indexer";
@@ -24,6 +24,8 @@ namespace PracticeProject
                 $"Weight = {anonType.Size.Weight}";
 
             Console.WriteLine(str);
+
+
 
 
 
@@ -54,6 +56,18 @@ namespace PracticeProject
                 Console.WriteLine(car);
             }
 
+            int[] numbers = new[] { 15, 24, 16, 20, 50, 67, 21 };
+
+            var nums = from number in numbers where number%5 == 0 select number;
+
+            foreach (int num in nums)
+            {
+                Console.WriteLine(num.ToString() + "\n");
+            }
+
+
+
+
 
             // Extension method
 
@@ -65,6 +79,8 @@ namespace PracticeProject
 
             str = "Shakil";
             Console.WriteLine(str.GetYourCountry("Bangladesh"));
+
+
 
 
 
