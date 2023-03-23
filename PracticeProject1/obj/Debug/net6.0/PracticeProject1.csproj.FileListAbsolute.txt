@@ -1,0 +1,15 @@
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\bin\Debug\net6.0\PracticeProject1.exe
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\bin\Debug\net6.0\PracticeProject1.deps.json
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\bin\Debug\net6.0\PracticeProject1.runtimeconfig.json
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\bin\Debug\net6.0\PracticeProject1.dll
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\bin\Debug\net6.0\PracticeProject1.pdb
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.csproj.AssemblyReference.cache
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.AssemblyInfoInputs.cache
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.AssemblyInfo.cs
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.csproj.CoreCompileInputs.cache
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.dll
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\refint\PracticeProject1.dll
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.pdb
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\PracticeProject1.genruntimeconfig.cache
+C:\Users\shakil\Desktop\Test\C#Practice\ConsoleApp1\obj\Debug\net6.0\ref\PracticeProject1.dll
