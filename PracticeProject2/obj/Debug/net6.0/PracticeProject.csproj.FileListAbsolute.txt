@@ -1,0 +1,15 @@
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.exe
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.deps.json
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.runtimeconfig.json
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.dll
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\bin\Debug\net6.0\PracticeProject.pdb
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.AssemblyReference.cache
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfoInputs.cache
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfo.cs
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.dll
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\refint\PracticeProject.dll
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.pdb
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\PracticeProject.genruntimeconfig.cache
+C:\Users\shakil\Desktop\Test\PracticeProject\PracticeProject\obj\Debug\net6.0\ref\PracticeProject.dll
