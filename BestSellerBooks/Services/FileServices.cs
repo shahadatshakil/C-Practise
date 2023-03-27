@@ -9,6 +9,7 @@ namespace BestSellerBooks.Services
         {
             List<Book> books = new List<Book>();
             string str = File.ReadAllText(Constants.FilePath);
+
             try
             {
                 books = JsonConvert.DeserializeObject<List<Book>>(str);

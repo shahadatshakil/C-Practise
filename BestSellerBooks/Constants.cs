@@ -12,7 +12,7 @@
         public const int ExitCode = 0;
         public const int MinimumYear = 2010;
 
-        public const string FilePath = "C:\\Users\\shakil\\Desktop\\MetaGeek Assignments\\books.txt";
+        public const string FilePath = "C:\\Users\\shakil\\Desktop\\MetaGeek Assignments\\NYTimesBestSellerBooks\\BestSellerBooks\\books.txt";
 
         public const string StartingAPIUrl = "https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=Wuc1leNpfOz8EoAsolaJFOMpCAtzxkM9";
         public const string BookDataAPIFirstPart = "https://api.nytimes.com/svc/books/v3/lists/";
